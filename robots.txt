@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-fx0lwh.kujang138bos.online/sitemap.xml
